@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35752
     wikipedia: http://en.wikipedia.org/wiki/Max_O%27Rell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33564#John-Bull-Junior--or-French-as-She-is-Traduced
 gutenberg_issued: '2010-08-28'
 gutenberg_type: Text
 identifiers:
